@@ -3,7 +3,7 @@ import episode
 <template>
   <Layout>
 
-    <MarxHead />
+    <MarxHeadSmall />
     <h1 v-html="$page.episode.title" />
 
     <div v-html="$page.episode.date" />
@@ -12,12 +12,23 @@ import episode
 
     </p>
 
-    <audio controls>
-        <source :src="$page.episode.audio" type="audio/mpeg">
-        Your browser does not support the audio tag.
-    </audio>
-    <div id="download"><a :href="$page.episode.audio">download</a></div>
-    </div>
+    <span v-for="thing in $page.episode.stuff">
+      <div v-if="thing.type==='audio'">
+          <br><br>
+          {{thing.text}}
+          <audio controls>
+          <source :src="thing.url" type="audio/mpeg">
+          Your browser does not support the audio tag.
+          </audio>
+          <div id="download"><a :href="thing.url">download</a></div>
+          </div>
+      </div> 
+      <div v-if="thing.type=='link'">
+          <div><a :href="thing.url">{{thing.text}}</a><br></div>
+      </div> 
+    </span>
+
+    
 
 
     
@@ -30,17 +41,21 @@ query ($id: ID!) {
         title,
         description,
         date, 
-        audio
+        stuff {
+          type,
+          url,
+          text
+        }
     }
 }
 </page-query>
 
 <script>
-import MarxHead from '~/components/MarxHead.vue'
+import MarxHeadSmall from '~/components/MarxHeadSmall.vue'
 
 export default {
   components: {
-      MarxHead
+      MarxHeadSmall
   }
 }
 

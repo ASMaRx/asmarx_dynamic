@@ -6,6 +6,8 @@
 
 module.exports = {
   siteName: 'A S M a R x',
+  siteUrl: 'https://www.asmarx.xyz',
+  pathPrefix: '/asmarx_dynamic',
   plugins: [
     {
       use: '@gridsome/source-filesystem',

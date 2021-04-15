@@ -2,6 +2,28 @@
     "id": 4,
     "title" : "The Communist Manifesto Discussion",
     "date"  : "08-11-2020",
-    "description" : "Episode discussing The Communist Manifesto as a whole, providing some background about Marx, and giving my limited thoughts.<br><br><a href=\"https://youtu.be/9A_phJBOo40\">Song at the beginning</a><br><a href=\"https://youtu.be/rRXvQuE9xO4\">Marx was not a \"statist\" video</a><br><a href=\"/extra/transcript/ep4\">Rough Script Of The Episode</a>",
-    "audio" : "https://drive.google.com/file/d/1zAeUP8uxPSTPSJtRp_EjY8wG9gyxXuBM/preview"
+    "description" : "Episode discussing The Communist Manifesto as a whole, providing some background about Marx, and giving my limited thoughts.<br><br>",
+    "audio" : "https://storage.googleapis.com/asmarx_episodes/ASMaRx%20Episode%204.mp3",
+    "stuff": [
+        {
+            "type" :"link",
+            "url"  : "https://youtu.be/9A_phJBOo40",
+            "text" : "Song at the beginning"
+        },
+        {
+            "type" :"link",
+            "url"  : "https://youtu.be/rRXvQuE9xO4",
+            "text" : "Marx was not a \"statist\" video"
+        },
+        {
+            "type" :"link",
+            "url"  : "/extra/transcript/ep4",
+            "text" : "Rough Script Of The Episode"
+        },
+        {
+            "type" :"audio",
+            "url"  : "https://storage.googleapis.com/asmarx_episodes/ASMaRx%20Episode%204.mp3",
+            "text" : "Episode:"
+        }
+    ]
 }

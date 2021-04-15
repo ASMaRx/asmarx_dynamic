@@ -3,5 +3,12 @@
     "title" : "The Communist Manifesto Part 2",
     "date"  : "12-10-2020",
     "description" : "In the second episode, we continue reading. I believe this is the meat of the Manifesto, so listen carefully (and peacefully). There's a decent definition of what Communism entails, and we even touch on feminism very very briefly.<br><br>Drink of the Evening: Adult Grape Juice<br><br>Chapters covered: 2. Proletarians and Communists",
-    "audio" : "https://storage.googleapis.com/asmarx_episodes/ASMaRx%20Episode%202.mp3"
+    "audio" : "https://storage.googleapis.com/asmarx_episodes/ASMaRx%20Episode%202.mp3",
+    "stuff": [
+        {
+            "type" :"audio",
+            "url"  : "https://storage.googleapis.com/asmarx_episodes/ASMaRx%20Episode%202.mp3",
+            "text" : "Episode:"
+        }
+    ]
 }

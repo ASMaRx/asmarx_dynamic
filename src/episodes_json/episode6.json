@@ -3,5 +3,17 @@
     "title" : "Update & Roasts by Marx",
     "date"  : "25-01-2021",
     "description" : "We're back!<br>I partly explain why we were even gone in a more casual episode of the show. There's also some exciting news! I hope.<br><br>Though they're diminished by the fact that I exported the episode wrong and might have lost some fidelity...<br><br>For some actual content, I also read some excerpts of Marx's texts where he critiques other thinkers, including:<br>Ludwig Feuerbach, Max Stirner, and Mikhail Bakunin.<br>I have included a convenient file in case you want to get straight to the roasts!",
-    "audio" : "https://drive.google.com/file/d/1hzfpjsOfiN_JmOL6VKroFlvdOc82xDcG/preview"
+    "audio" : "https://storage.googleapis.com/asmarx_episodes/ASMaRx%20Episode%206.mp3",
+    "stuff": [
+        {
+            "type" :"audio",
+            "url"  : "https://storage.googleapis.com/asmarx_episodes/ASMaRx%20Episode%206.mp3",
+            "text" : "Update & Roasts:"
+        },
+        {
+            "type" :"audio",
+            "url"  : "https://storage.googleapis.com/asmarx_episodes/just_roasts.mp3",
+            "text" : "Just The Roasts:"
+        }
+    ]
 }
