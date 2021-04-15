@@ -1,0 +1,165 @@
+
+
+h1 {
+    font-size: 7vh;
+  }
+
+a,
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus,
+a:active {
+  color: black;
+}
+
+pre {
+    background-color: #fe5c5c;
+  }
+
+
+  html,
+  body {
+    background-color: #fe5c5c;
+    min-height: 100%;
+  }
+
+.title-blog {
+    margin-left: auto;
+    
+    width: auto;
+    font-size: 3em;
+}
+
+.subtitle-blog {
+    margin-left: auto;
+    width: 12em;
+}
+
+#entries {
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+.subtle {
+    opacity: 90%;
+    animation: fading 15s ease-in-out ;
+}
+
+#date {
+    color: white;
+}
+
+.marxhead {
+    position:relative;
+    top: -18em;
+    left: 0;
+    margin-bottom: 10em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 14em;
+  }
+.marximg {
+    position: absolute;
+    width: 14em;
+    height: 14em;
+}
+
+.marximg-ep {
+    position: absolute;
+    width: 8em;
+    height: 8em;
+}
+.ep {
+    margin-bottom: 4em;
+    top: -9em;
+    width: 8em;
+}
+
+.z {
+    transform: translatey(0px);
+	animation: float 6s ease-in-out infinite;
+}
+
+.zz {
+    transform: translatey(-2px);
+	animation: float 5.3s ease-in-out infinite;
+}
+
+.zzz {
+    transform: translatey(-3px);
+	animation: float 5.5s ease-in-out infinite;
+}
+
+.head {
+    transform: rotate(0deg);
+	animation: bob 9.5s ease-in-out infinite;
+}
+
+@keyframes float {
+	0% {
+		
+		transform: translatey(0px);
+	}
+	50% {
+		
+		transform: translatey(-20px);
+	}
+	100% {
+		
+		transform: translatey(0px);
+	}
+}
+
+@keyframes bob {
+
+    0% {
+        transform: rotate(-5deg);
+    }
+
+    50% {
+        transform: rotate(5deg);
+    }
+
+    100% {
+        transform: rotate(-5deg);
+    }
+}
+
+@keyframes fading {
+
+    0% {
+        opacity: 5%;
+    }
+
+    100% {
+        opacity: 90%;
+    }
+
+}
+
+audio {
+    width: 100%;
+    height: 2em;
+}
+
+#download {
+    margin-top: 1em;
+    font-size: 0.7em;
+    width: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+}
+
+
+
+/* Christmas Special aka Kropotkin Variant styling */
+
+pre_kropotkin {
+    background-color: #91d693;
+  }

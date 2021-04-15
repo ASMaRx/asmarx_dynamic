@@ -1,0 +1,65 @@
+
+{
+    "a" : [
+
+        {
+            "no": "6",
+            "title" : "Update & Roasts by Marx",
+            "date"  : "25-01-2021",
+            "description" : "We're back!<br>I partly explain why we were even gone in a more casual episode of the show. There's also some exciting news! I hope.<br><br>Though they're diminished by the fact that I exported the episode wrong and might have lost some fidelity...<br><br>For some actual content, I also read some excerpts of Marx's texts where he critiques other thinkers, including:<br>Ludwig Feuerbach, Max Stirner, and Mikhail Bakunin.<br>I have included a convenient file in case you want to get straight to the roasts!",
+            "audio" : "https://drive.google.com/file/d/1hzfpjsOfiN_JmOL6VKroFlvdOc82xDcG/preview",
+            "links" : [],
+            "extra" : []
+        },
+        {
+            "no": "4",
+            "title" : "The Communist Manifesto Discussion",
+            "date"  : "08-11-2020",
+            "description" : "Episode discussing The Communist Manifesto as a whole, providing some background about Marx, and giving my limited thoughts.",
+            "audio" : "https://drive.google.com/file/d/1zAeUP8uxPSTPSJtRp_EjY8wG9gyxXuBM/preview",
+            "links" : [
+                {
+                    "text" : "Song at the beginning",
+                    "link" : "https://youtu.be/9A_phJBOo40"
+                },
+                {
+                    "text" : "Marx was not a \"statist\" video",
+                    "link" : "https://youtu.be/rRXvQuE9xO4"
+                },
+                {
+                    "text" : "Rough Script Of The Episode",
+                    "link" : "????????????????????????????"
+                }
+            ],
+            "extra" : []
+        },
+        {
+            "no": "3",
+            "title" : "The Communist Manifesto Part 3",
+            "date"  : "01-11-2020",
+            "description" : "We finish up with the (reading part) of The Communist Manifesto. Spoilers: I could not contain my excitement reading the final few sentences, fair warning of a volume increase (up to almost inside voice loudness!!)<br><br>Chapters Covered:<br><br>3. Socialist and Communist Literature<br>4. Position of the Communists in Relation to the Various Existing Opposition Parties",
+            "audio" : "https://drive.google.com/file/d/1JBvCX8LXBfnqJeXxxc6JbTLPn4b3ZhdG/preview",
+            "links" : [],
+            "extra" : []
+        },
+        {
+            "no": "2",
+            "title" : "The Communist Manifesto Part 2",
+            "date"  : "12-10-2020",
+            "description" : "In the second episode, we continue reading. I believe this is the meat of the Manifesto, so listen carefully (and peacefully). There's a decent definition of what Communism entails, and we even touch on feminism very very briefly.<br><br>Drink of the Evening: Adult Grape Juice<br><br>Chapters covered: 2. Proletarians and Communists",
+            "audio" : "https://drive.google.com/file/d/1om-aN-SqJu57lUT4T65AtrOI_gn98MT9/preview",
+            "links" : [],
+            "extra" : []
+        },
+        {
+            "no": "1",
+            "title" : "Intro & The Communist Manifesto Part 1",
+            "date"  : "03-10-2020",
+            "description" : "We start with the booklet that started the show. The first proto-episode was an ASMR reading of The Communist Manifesto on FreshAir 2019 UK Election Special. Due to the limited time slot I was unable to read The Manifesto in its entiriety. However, there is nothing that can stop me now.<br><br>Drink of the Evening: Coffee from Café Rebelde Zapatista beans<br><br>Chapter covered: 1. Bourgeois And Proletarians",
+            "audio" : "https://drive.google.com/file/d/1BQ_Dj8sDOkWXOiPgiMcW3EbsUBzi6wiU/preview",
+            "links" : [],
+            "extra" : []
+        }
+]
+
+}
