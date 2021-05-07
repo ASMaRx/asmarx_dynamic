@@ -6,6 +6,8 @@
 
     <MarxHead />
     <h1>A S M a R x</h1>
+
+    <RssIcon />
     
     <p>
     A podcast of calming (almost ASMR) readings and discussions of various marxist, critical theory, and general philosophy texts.
@@ -42,12 +44,13 @@ query {
 <script>
 
 
-
+import RssIcon from '~/components/RssIcon.vue'
 import MarxHead from '~/components/MarxHead.vue'
 
 export default {
   components: {
-      MarxHead
+      MarxHead,
+      RssIcon
   },
   metaInfo: {
     title: ''

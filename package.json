@@ -6,13 +6,14 @@
     "explore": "gridsome explore",
     "build": "gridsome build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist --repo https://github.com/ASMaRx/asmarx.github.io -b main"
   },
   "dependencies": {
     "@gridsome/source-filesystem": "^0.6.2",
     "@gridsome/transformer-json": "^0.2.1",
     "@gridsome/transformer-remark": "^0.6.4",
     "gh-pages": "^3.1.0",
-    "gridsome": "^0.7.0"
+    "gridsome": "^0.7.0",
+    "gridsome-plugin-rss": "^1.2.0"
   }
 }

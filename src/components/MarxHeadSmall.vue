@@ -2,7 +2,7 @@
 <template>
 
     <div>
-    <div class="marxhead">
+    <div class="marxhead-ep">
             <g-image class="marximg-ep head" src="~/images/head.png" />
             <g-image class="marximg-ep z"    src="~/images/z.png" />
             <g-image class="marximg-ep zz"   src="~/images/zz.png" />
@@ -15,7 +15,7 @@
 
 <script>
     export default {
-        name: 'MarxHead'
+        name: 'MarxHeadSmall'
     }
 
 </script>
